@@ -1,12 +1,12 @@
 # cli-tools
 
-git, npm/yarn
+git, npm/yarn, composer, pypi
 
 
 
 
 
-# npm 
+### npm • nodejs package manager
 ```sh
 # make sure nodejs is installed
 # npm -v
@@ -17,10 +17,18 @@ npm install
 
 ```
 
-# yarn 
+### yarn • similar to npm
 https://yarnpkg.com/
 
 ```bash
 # installation
 npm install -g yarn
 ```
+
+### composer • php package manager
+
+
+
+
+
+### PyPI • The Python Package Index 
