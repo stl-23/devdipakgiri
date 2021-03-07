@@ -25,10 +25,29 @@ https://yarnpkg.com/
 npm install -g yarn
 ```
 
+
+
+
+
+
+
 ### composer • php package manager
-
-
+https://getcomposer.org
+```
+```
 
 
 
 ### PyPI • The Python Package Index 
+https://pypi.org
+```
+```
+
+
+
+
+
+
+
+
+
