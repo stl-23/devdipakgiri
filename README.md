@@ -37,7 +37,7 @@ https://getcomposer.org
 
 ```
 
-### phpmyadmin • php database manager
+### phpmyadmin • php to handle the administration of MySQL
 ```
 
 ```
