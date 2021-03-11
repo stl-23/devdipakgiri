@@ -34,6 +34,12 @@ npm install -g yarn
 ### composer • php package manager
 https://getcomposer.org
 ```
+
+```
+
+### phpmyadmin • php database manager
+```
+
 ```
 
 
