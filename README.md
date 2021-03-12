@@ -33,7 +33,19 @@ npm install -g yarn
 
 ### composer • php package manager
 https://getcomposer.org
+```sh
+# create composer.json in root directory with proper json format.
+# suppose 
 ```
+```json
+{
+
+}
+```
+```sh
+# then run the command 
+composer update
+# this will install the dependencies to /vendor dorectory
 
 ```
 
