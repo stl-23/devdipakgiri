@@ -2,10 +2,6 @@
 
 git, npm/yarn, composer, pypi
 
-
-
-
-
 ### npm • nodejs package manager
 ```sh
 # make sure nodejs is installed
@@ -17,8 +13,8 @@ npm install
 ```
 
 
-###  create-react-app, angular-cli and vue-cli
-# create-react-app 
+##  create-react-app, angular-cli and vue-cli
+### create-react-app 
 visit https://create-react-app.dev to know  more
 ```sh
 # the preffered way
@@ -27,8 +23,8 @@ cd app-name
 npm build # builds the project in /build dir.
 ```
 
-# angular-cli, a rich cmd tool for creating and maintain angular app
-```
+### angular-cli, a rich cmd tool for creating and maintain angular app
+```sh
 # install angular-cli using npm
 # basic commands
 ng new app-name # creates an angular app
