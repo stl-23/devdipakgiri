@@ -14,8 +14,25 @@ git, npm/yarn, composer, pypi
 
 # npm install 
 npm install 
+```
+
+
+###  create-react-app, angular-cli and vue-cli
+# create-react-app 
+visit https://create-react-app.dev to know  more
+```sh
+# the preffered way
+npx create-react-app app-name
+
+# angular-cli, a rich cmd tool for creating and maintain angular app
+# install angular-cli using npm
+
+# basic commands
+ng new app-name
+# creates an angular app
 
 ```
+
 
 ### yarn • similar to npm
 https://yarnpkg.com/
