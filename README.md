@@ -45,23 +45,11 @@ https://yarnpkg.com/
 npm install -g yarn
 ```
 
-
-
-
-
-
-
 ### composer • php package manager
 https://getcomposer.org
 ```sh
 # create composer.json in root directory with proper json format.
-# suppose 
-```
-```json
-{
-  // make sure not empty
-}
-```
+
 ```sh
 # then run the command 
 composer update
