@@ -22,16 +22,23 @@ npm install
 visit https://create-react-app.dev to know  more
 ```sh
 # the preffered way
-npx create-react-app app-name
+npx create-react-app app-name # creates a react app
+cd app-name
+npm build # builds the project in /build dir.
+```
 
 # angular-cli, a rich cmd tool for creating and maintain angular app
-# install angular-cli using npm
-
-# basic commands
-ng new app-name
-# creates an angular app
-
 ```
+# install angular-cli using npm
+# basic commands
+ng new app-name # creates an angular app
+cd app-name
+ng serve # builds the priject
+ng serve # runs the project in development server
+```
+
+
+
 
 
 ### yarn • similar to npm
@@ -56,7 +63,7 @@ https://getcomposer.org
 ```
 ```json
 {
-
+  // make sure not empty
 }
 ```
 ```sh
