@@ -100,3 +100,14 @@ https://pypi.org
 ## firebase
 
 
+### flutter and android studio
+#### installing android studio
+
+
+
+
+
+
+
+
+
