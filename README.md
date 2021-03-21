@@ -102,7 +102,12 @@ https://pypi.org
 
 ### flutter and android studio
 #### installing android studio
-
+#### install vscode
+#### install flutter
+run following command to install flutter  using```sudo snap install flutter --classic```
+then, run ```flutter doctor``` to complete the setup to install flutter, it will download required SDK
+#### install android studio SDK by installing android studio
+dont't mess with android studio if you're not intrested in native android app development.
 
 
 
