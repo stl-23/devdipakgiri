@@ -115,7 +115,7 @@ type Flutter: New Application
 locate SDK path when asked
 get sdk path of flutter by ```flutter sdk-path```
 
-lets rock, i don't do flutter
+lets rock, i don't do flutter or android!
 
 
 
