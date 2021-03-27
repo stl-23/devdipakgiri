@@ -49,7 +49,7 @@ npm install -g yarn
 https://getcomposer.org
 ```sh
 # create composer.json in root directory with proper json format.
-
+```
 ```sh
 # then run the command 
 composer update
