@@ -13,7 +13,7 @@ npm install
 ```
 
 ### yarn - preffer to use yarn over npm
-```
+```sh
 # create react app using yarn
 yarn create react-app myapp
 ```
