@@ -12,6 +12,12 @@ git, npm/yarn, composer, pypi
 npm install 
 ```
 
+### yarn - preffer to use yarn over npm
+```
+# create react app using yarn
+yarn create react-app myapp
+```
+
 
 ##  create-react-app, angular-cli and vue-cli
 ### create-react-app 
