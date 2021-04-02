@@ -57,6 +57,9 @@ vue create my-project
 vue ui
 ```
 
+#### run 
+```npm run serve```
+
 
 
 ### yarn • similar to npm
