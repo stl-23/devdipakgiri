@@ -41,6 +41,21 @@ ng serve # runs the project in development server
 
 ### vue-cli
 
+#### install vue-cli globally
+
+```sh
+npm install -g @vue/cli
+# OR
+yarn global add @vue/cli
+```
+
+#### 
+```sh
+vue create my-project
+# OR
+vue ui
+```
+
 
 
 ### yarn • similar to npm
