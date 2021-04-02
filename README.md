@@ -58,7 +58,9 @@ vue ui
 ```
 
 #### run 
-```npm run serve```
+```sh
+npm run serve
+```
 
 
 
