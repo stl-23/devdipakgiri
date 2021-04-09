@@ -128,7 +128,22 @@ https://pypi.org
 
 # deployment tools
 ## Heroku
+
+
+
 ## netlify
+- login
+- new site
+- check build config
+- deploy
+
+
+
+
+
+
+
+
 ## firebase
 
 
