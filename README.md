@@ -11,6 +11,11 @@ git, npm/yarn, composer, pypi
 # npm install 
 npm install 
 ```
+``` 
+# this command will update all the packages listed to the latest version.
+npm update [-g] [pkg] 
+# npm update inside a project will update all packages to the latest version
+```
 
 ### yarn - preffer to use yarn over npm
 ```sh
