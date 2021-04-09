@@ -137,7 +137,8 @@ https://pypi.org
 - check build config
 - deploy
 
-
+### to change site name
+settings -> general -> change site name
 
 
 
