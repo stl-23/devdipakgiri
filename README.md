@@ -4,6 +4,7 @@ curl, git, npm/yarn, composer, pypi
 
 ## curl 
 ### a very basic example
+command to create a file google.html and save response from google.com
 ```sh
 curl -X GET https://www.google.com > google.html
 # it means 
@@ -11,6 +12,7 @@ curl -X GET https://www.google.com > google.html
 # then url
 # then '>' refers the output file to save the response
 ```
+
 
 ## git 
 ### deleting a branch
