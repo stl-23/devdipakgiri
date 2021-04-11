@@ -2,6 +2,13 @@
 
 git, npm/yarn, composer, pypi
 
+## git 
+### deleting a branch
+with examples
+
+to delete master branch
+git push origin :master
+
 ### npm • nodejs package manager
 ```sh
 # make sure nodejs is installed
