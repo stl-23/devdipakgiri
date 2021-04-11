@@ -1,6 +1,9 @@
 # cli-tools
 
-git, npm/yarn, composer, pypi
+curl, git, npm/yarn, composer, pypi
+
+## curl 
+### methods
 
 ## git 
 ### deleting a branch
