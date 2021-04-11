@@ -3,7 +3,14 @@
 curl, git, npm/yarn, composer, pypi
 
 ## curl 
-### methods
+### a very basic example
+```sh
+curl -X GET https://www.google.com > google.html
+# it means 
+# -X GET reffers request method is GET
+# then url
+# then '>' refers the output file to save the response
+```
 
 ## git 
 ### deleting a branch
