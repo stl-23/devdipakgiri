@@ -7,7 +7,7 @@ git, npm/yarn, composer, pypi
 with examples
 
 to delete master branch
-git push origin :master
+```git push origin :master```
 
 ### npm • nodejs package manager
 ```sh
