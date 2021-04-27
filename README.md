@@ -1,6 +1,6 @@
 # cli-tools
 
-curl, git, npm/yarn, composer, pypi
+curl, git, npm/yarn, composer, pypi/anaconda
 
 ## curl 
 ### a very basic example
@@ -13,6 +13,10 @@ curl -X GET https://www.google.com > google.html
 # then '>' refers the output file to save the response
 ```
 
+
+## Anaconda
+### installation
+this video tutorial makes it easy: https://www.youtube.com/watch?v=DY0DB_NwEu0
 
 ## git 
 ### deleting a branch
