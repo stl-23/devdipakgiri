@@ -26,7 +26,7 @@ with examples
 ```
 # create a repository from github website
 git init
-git add README.md
+git add .
 git commit -m "commit massage"
 git branch -M main
 git remote add origin https://github.com/path-to-repo.git
