@@ -22,6 +22,17 @@ this video tutorial makes it easy: https://www.youtube.com/watch?v=DY0DB_NwEu0
 ### deleting a branch
 with examples
 
+## add existing preject to repo
+```
+# create a repository from github website
+git init
+git add README.md
+git commit -m "commit massage"
+git branch -M main
+git remote add origin https://github.com/path-to-repo.git
+git push -u origin main
+```
+
 to delete master branch
 ```git push origin :master```
 
