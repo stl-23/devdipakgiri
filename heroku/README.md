@@ -11,5 +11,8 @@ setup the aqccount
 - login if you have am account created
 
 ### the second atep 
+from the website
 - create an app
 - install heroku app locally ```sudo snap install heroku --classic```
+then
+- login using: ```heroku login```
