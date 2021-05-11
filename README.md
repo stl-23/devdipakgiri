@@ -6,15 +6,7 @@
 - 📫 to DM me from Github: [instagram](https://www.instagram.com/dipakgiri.py)
 - 📚 documenting journey: [blog](https://github.com/devdipakgiri/devdipakgiri/blog/)
 
-<!--
-#### 2023 final resume
--->
-<!-- keep learning: https://www.freecodecamp.org/learn/ -->
-
-<!-- cources i'm taking
-
-i have to finish before october
-https://www.coursera.org/my-purchases/transactions
-
--->
+self-tauch?
+- i'm learning python and ai by my own research
+- i'm learning django, flask and react from official docs
 
