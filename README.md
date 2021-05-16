@@ -1,8 +1,8 @@
 ## Hi there, this is Dipak Giri <img src="https://img.shields.io/badge/python-Developer-%23FFE538"/>
 ### learning ☺️
-- 📈 ML
 - 🌱 DJANGO
 - 🍁 REACTJS
+- 📈 PyTorch
 - 👋 BSC in Computer Science
 - 📫 to DM me from Github: [instagram](https://www.instagram.com/dipakgiri.py)
 - 📚 documenting journey: [blog](https://github.com/devdipakgiri/devdipakgiri/blog/)
