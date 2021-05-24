@@ -1,7 +1,7 @@
 ## Hi there, this is Dipak Giri <img src="https://img.shields.io/badge/python-Developer-%23FFE538"/>
 ### learning ☺️
-- 📈 PyTorch
-- 🌱 Django, Flask and ReactJS
+- 📈 Django and PyTorch
+- ⚙️ Flask and ReactJS
 - 🍁 BSC in Computer Science
 - 📫 to DM me from Github: [instagram](https://www.instagram.com/dipakgiri.py)
 
