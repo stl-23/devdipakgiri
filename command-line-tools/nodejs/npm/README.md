@@ -1,5 +1,7 @@
 # NPM, stands for node package manager
-## NPM
+## npm
 
-## NPX
+## npx
 
+### creating a Next.js app
+```npx create-next-app money-by-typing```
