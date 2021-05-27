@@ -7,6 +7,6 @@
 ```yarn create next-app money-by-typing --offline```
 
 ### install from package.json
-``````
+```yarn isntall```
 
 # STRONGLY RECOMENT NOT TO USE YARN, USE NPX OF NODEJS INSTADE!
