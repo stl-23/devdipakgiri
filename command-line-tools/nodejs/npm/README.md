@@ -1,5 +1,6 @@
 # NPM, stands for node package manager
 ## npm
+### install command
 
 ## npx
 
