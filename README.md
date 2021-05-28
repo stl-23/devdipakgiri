@@ -2,7 +2,7 @@
 ### learning ☺️
 - 📈 Flask and PyTorch
 - ⚙️ Django and Next.js
-- 🍁 BSC in Computer Science
+- 🍁 Computing Student
 - 📫 to DM me from Github: [instagram](https://www.instagram.com/dipakgiri.py)
 
 self-tauch?
