@@ -3,7 +3,7 @@
 - 📈 Flask and PyTorch
 - ⚙️ Django and Next.js
 - 🍁 Computing Student
-- 📫 to DM me from Github: [instagram](https://www.instagram.com/dipakgiri.py)
+- 📫 to DM me from Github: [instagram](https://www.instagram.com/dipakgiri.ipynb)
 
 self-tauch?
 - i'm learning python and ai by my own research
