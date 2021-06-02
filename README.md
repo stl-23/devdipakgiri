@@ -9,4 +9,4 @@
 - 🍁 CS graduate
 - ☺️ single
 
-📫 DM : [instagram](https://www.instagram.com/dipakgiri.ipynb)
+📫 DM : [Twitter](https://twitter.com/DipakGiriPy)
