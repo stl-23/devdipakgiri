@@ -5,6 +5,7 @@
 ### 🐍 Python Developer
 - ♥️ Next.js and Django
 - 🧡 PyTorch and Flask
+- 🇮🇳 Indian freelancer
 - 🍁 CS graduate
 
 📫 DM : [instagram](https://www.instagram.com/dipakgiri.ipynb)
